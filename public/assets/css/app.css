@@ -1,0 +1,22 @@
+.row {
+    margin-bottom: 15px;
+}
+.form-group.required .control-label:after {
+  content:"*";
+  color:red;
+}
+.hidden{
+    display: none;
+}
+.file {
+    border: navajowhite;
+    padding-left: 0px;
+}
+.profile-img img {
+    width: 70%;
+    height: 100%;
+}
+.link{
+    margin: 10px;
+    cursor: pointer;
+}
